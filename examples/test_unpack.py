@@ -1,5 +1,5 @@
 import asyncio
-from async7zip import async7zip, ReturnCodes7zip
+from async7zip.async7zip import async7zip, ReturnCodes7zip
 
 async def main():
     # Initialize the async7zip object
